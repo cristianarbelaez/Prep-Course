@@ -75,7 +75,7 @@ Podemos asignar y reasignar cualquier índice en la matriz usando el paréntesis
 ```javascript
 const nombresEstudiantes = ['Martin', 'Antonio', 'Sara', 'Samuel'];
 
-nombresEstudiantes[0] = 'Jorge';
+nombresEstudiantes[0] = 'Jorge el curioso';
 
 console.log(nombresEstudiantes);  // ['Jorge', 'Antonio', 'Sara', 'Samuel']
 ```
