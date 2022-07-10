@@ -1,0 +1,8 @@
+ * Variables: le asignamos un valor a una palabra
+
+ * Strings: son palabras y las ponemos en comillas
+
+ * Funciones (argumentos, `return`): se programa una accion con variables que arrojan un resultado
+
+ * Declaraciones `if`: condicional que arroja un booleano es decir falso o verdadero
+ * Valores booleanos (`true`, `false`): si un valor es cierto o falso.
