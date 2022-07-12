@@ -1,0 +1,6 @@
+* `for` sirve para realizar acciones repetitivas 
+
+* &&  para que se cumplan dos condiciones (y)
+  ||  para que se cumpla una u otra (or)
+   !  niega lo que tenga a su derecha (not)
+
