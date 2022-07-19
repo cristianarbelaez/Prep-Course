@@ -1,0 +1,8 @@
+	* Objetos: son arrays pero de un solo objeto, es decir 
+            tiene dentro propiedades que hacen referencia 
+            asi mismo.
+	* Propiedades: son atributos del objeto
+	* Métodos: son las funciones que estan dentro de los objetos
+	* Bucle `for…in`: en los objetos debemos incluir IN para el for, esto
+            permitira que podamos hacer este bucle
+	* Notación de puntos vs notación de corchetes
